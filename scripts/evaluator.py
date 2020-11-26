@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 '''
 Evaluate VCFs against BAMSurgeon "Truth" VCFs
 Adam Ewing, adam.ewing@mater.uq.edu.au

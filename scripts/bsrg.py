@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 ''' Adds a bogus read group to a readgroup-less BAM file '''
 
